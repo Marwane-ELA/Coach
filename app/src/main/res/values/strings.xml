@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Coach</string>
+    <string name="txtimg">My IMG</string>
+    <string name="txtHistory">My History</string>
+    <string name="rdHomme">Man</string>
+    <string name="rdFemme">Women</string>
+    <string name="txtWeight">Weight: </string>
+    <string name="txtSize">Size: </string>
+    <string name="txtAge">Age: </string>
+    <string name="btnCalc">Calculate</string>
+    <string name="btnImgBack">Home</string>
+    <string name="ImgResponseNormal">Normal</string>
+    <string name="ImgResponseToWeak">Too Low</string>
+    <string name="ImgResponseToHigh">Too High</string>
+    <string name="MainIMG">BFP Calculator</string>
+    <string name="MainYoga">Yoga</string>
+    <string name="MainCounter">Time</string>
+    <string name="btnImgBackDesc">Back to the home page</string>
+    <string name="txtimgDesc">Calculate your body fat percentage (BFP)</string>
+    <string name="txtHistoryDesc">History: BFP</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FragCounter">Counter</string>
+    <string name="FragChrono">Chrono</string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_chrono">ChronoActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="btnExercises">Exercises</string>
+    <string name="btnSetting">Setting</string>
+    <string name="btnCalendar">Calendar</string>
+    <string name="ViewExercise">VIEW EXERCISE</string>
+    <string name="btnStart">START</string>
+    <string name="btnVideo">VIDEO</string>
+    <string name="rdEasy">Easy</string>
+    <string name="rdMedium">Medium</string>
+    <string name="rdHard">Hard</string>
+    <string name="yogaSave">SAVE</string>
+    <string name="notifTitle">It\'s time</string>
+    <string name="notifText">Time to training</string>
+    <string name="ToastSetting">SAVED!!!</string>
+    <string name="getReady">Get Ready</string>
+    <string name="finished">FINISHED !!!</string>
+    <string name="congr">Congratulation ! \nYou\'re done with today exercices</string>
+    <string name="Skip">Skip</string>
+    <string name="restTime">REST TIME</string>
+    <string name="done">Workout done</string>
+    <string name="bt">Bluetooth</string>
+    <string name="CVDisco">Discoverable</string>
+    <string name="share">Share It</string>
+    <string name="shareOne">Coach is a very useful fitness app during your toughest workout\n</string>
+    <string name="shareTwo">LINK: https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment</string>
+    <string name="mp">Music</string>
+    <string name="calorie">Calorie</string>
+    <string name="ListDevice">Available devices</string>
+    <string name="discover">Discover</string>
+    <string name="steps">Steps</string>
+    <string name="stepCounter">StepCounter</string>
+    <string name="ItemHome">Home</string>
+    <string name="ItemIMG">BFP calculator</string>
+    <string name="ItemYOGA">Yoga training</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="ItemTimer">Timer/Counter</string>
+    <string name="navCoach">Coach Navigation</string>
+    <string name="ItemCalorie">Calorie Manager</string>
+    <string name="itemMusic">Music</string>
+    <string name="itemMap">Map</string>
+    <string name="itemStepCounter">Step Counter</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_google">Map</string>
+    <string name="market">Market</string>
+    <string name="fitness">Fitness</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hospital">Hospital</string>
+    <string name="infoFonc1">Coach is a very useful fitness app during or outside of your toughest workouts.
+        The application has been created for amateur sports or even professionals. Will also be helpful for people who are on an intensive diet.
+</string>
+    <string name="infoFonc2">Student</string>
+    <string name="infoFonc3">Marwane El Aissati</string>
+    <string name="infoFonc4">Course</string>
+    <string name="infoFonc5">Mobile Apps Android</string>
+
+    <string name="fonctions">
+        - Calculateur de IMG (+Historique de ton img trie par date)\n
+        - Entrainement Yoga\n
+            * multiple exercice avec un timer + vidéo tuto\n
+            * Fonction Daily workout + suivi via un calendrier\n
+            * paramètre pour régler la difficulté des exercice et pour active notification de rappelle\n
+        - Compteur et chronomètre\n
+        - Fonction Bluetooth pour connecter plus rapidement son casque ou oreillettes Bluetooth\n
+        - Music Player pour écouter de la musique à partir de l’application\n
+        - fonctionnalité Map vous permet de trouve salle de sport, restaurant, hôpitaux et super marche les plus proche\n
+        - compteur de pat journalier pour savoir si vous bougez assez ;)\n</string>
+    <string name="addNewFood">Add New Food</string>
+    <string name="message">What did you eat today?</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_market"
+        android:enabled="true"
+        android:title="@string/market"
+        android:icon="@drawable/ic_shopping"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_fitness"
+        android:enabled="true"
+        android:title="@string/fitness"
+        android:icon="@drawable/ic_fitness"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_restaurant"
+        android:enabled="true"
+        android:title="@string/restaurant"
+        android:icon="@drawable/ic_resto"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_hospital"
+        android:enabled="true"
+        android:title="@string/hospital"
+        android:icon="@drawable/ic_hospitalsss"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+
+</menu>

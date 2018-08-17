@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".view.VideoActivity"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/titleVideo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/greencolorPrimary"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="NAME OF EXERCISE"
+        android:textColor="@color/colorWhite"
+        android:textSize="24sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:id="@+id/youtuber_player"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFF">
+
+        </com.google.android.youtube.player.YouTubePlayerView>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ItemHome"
+        android:icon="@drawable/ic_baseline_home_24px"
+        android:title="@string/ItemHome"/>
+    <item
+        android:id="@+id/ItemIMG"
+        android:icon="@drawable/ic_drawer_weight_black"
+        android:title="@string/ItemIMG"/>
+    <item
+        android:id="@+id/ItemYoga"
+        android:title="@string/ItemYOGA"
+        android:icon="@drawable/ic_itemyoga"/>
+    <item
+        android:id="@+id/ItemTimer"
+        android:title="@string/ItemTimer"
+        android:icon="@drawable/ic_itemtimer"/>
+    <item
+        android:id="@+id/ItemCarolie"
+        android:title="@string/ItemCalorie"
+        android:icon="@drawable/ic_itemcalorie"/>
+
+    <item
+        android:id="@+id/ItemBT"
+        android:title="Bluetooth"
+        android:icon="@drawable/ic_itembt"/>
+    <item
+        android:id="@+id/ItemMusic"
+        android:title="@string/itemMusic"
+        android:icon="@drawable/ic_itemmusic"/>
+    <item
+        android:id="@+id/ItemMap"
+        android:title="@string/itemMap"
+        android:icon="@drawable/ic_itemmap"/>
+
+    <item
+        android:id="@+id/ItemStepCounter"
+        android:title="@string/itemStepCounter"
+        android:icon="@drawable/ic_itemstep"/>
+
+    <item android:title="More">
+       <menu>
+           <item
+               android:id="@+id/ItemInfo"
+               android:title="Info"
+               android:icon="@drawable/ic_iteminfo"/>
+           <item
+               android:id="@+id/ItemShare"
+               android:title="@string/share"
+               android:icon="@drawable/ic_itemshare"/>
+       </menu>
+
+    </item>
+
+    <item android:title="@string/itemMusic">
+        <menu>
+            <item
+                android:id="@+id/ItemPlay"
+                android:title="@string/play"
+                android:icon="@drawable/ic_play_button"/>
+            <item
+                android:id="@+id/ItemPause"
+                android:title="@string/pause"
+                android:icon="@drawable/ic_pause_button"/>
+        </menu>
+
+    </item>
+
+</menu>
